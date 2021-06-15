@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { BrowserRouter } from "react-router-dom";
 import { GlobalStyle } from "./globalStyles";
 import Hero from "./Components/Hero";
 import Products from "./Components/Pizzas";
